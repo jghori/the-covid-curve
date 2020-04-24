@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fa9fff4c81355b850155ed6a9e6f700",
+    "revision": "d6c2334fd89a7f8112cd0d7d58688f76",
     "url": "/the-covid-curve/index.html"
   },
   {
-    "revision": "38bdb8f36f3532e08498",
-    "url": "/the-covid-curve/static/css/main.b10f43b3.chunk.css"
+    "revision": "ff65a45673840a85465b",
+    "url": "/the-covid-curve/static/css/main.f24bfa6a.chunk.css"
   },
   {
-    "revision": "19b50cdca90d3e3172a9",
-    "url": "/the-covid-curve/static/js/2.4378980d.chunk.js"
+    "revision": "7c39a53afb9a024d1517",
+    "url": "/the-covid-curve/static/js/2.cc42b413.chunk.js"
   },
   {
     "revision": "2c24acf63e18487b21e343b8335b2718",
-    "url": "/the-covid-curve/static/js/2.4378980d.chunk.js.LICENSE.txt"
+    "url": "/the-covid-curve/static/js/2.cc42b413.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38bdb8f36f3532e08498",
-    "url": "/the-covid-curve/static/js/main.f257799c.chunk.js"
+    "revision": "ff65a45673840a85465b",
+    "url": "/the-covid-curve/static/js/main.1b86d3a8.chunk.js"
   },
   {
     "revision": "81e82b3c6902fd26929c",
